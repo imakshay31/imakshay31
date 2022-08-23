@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🤔 About
--  **Studing :**  3rd Year | MANIT | CSE 📚
+-  **Studing :**  4rd Year | MANIT | CSE 📚
 -  **Learning :** Full-Stack :zap: | Competitive Programing :fire:	
 -  **Hobbies :** Problem Solving 
 
